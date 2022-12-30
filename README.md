@@ -1,6 +1,6 @@
 # Generate favicons from Images
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/magarrent/favicon-generator.svg?style=flat-square)](https://packagist.org/packages/magarrent/favicon-generator)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/magarrent/laravel-favicon-generator.svg?style=flat-square)](https://packagist.org/packages/magarrent/laravel-favicon-generator)
 
 ## Installation
 
